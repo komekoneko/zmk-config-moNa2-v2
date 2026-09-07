@@ -16,7 +16,7 @@ layers:
   - D
   - F
   - G
-  - ;
+  - '&mkp MB1'
   - H
   - J
   - K
@@ -33,7 +33,7 @@ layers:
   - M
   - (
   - )
-  - '&mkp MB1'
+  - ;
   - LEFT COMMAND
   - DELETE
   - F16
