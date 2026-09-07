@@ -35,9 +35,9 @@ layers:
   - )
   - ESCAPE
   - LEFT COMMAND
-  - BACKSPACE
-  - F16
   - DELETE
+  - F16
+  - BACKSPACE
   - {t: ENTER, h: '2'}
   - {t: '&to_layer_0 LANG2', h: '3'}
   - {t: '&to_layer_0 LANG1', h: '3'}
