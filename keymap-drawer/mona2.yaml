@@ -21,7 +21,7 @@ layers:
   - J
   - K
   - L
-  - /
+  - {t: /, h: RIGHT SHIFT}
   - {t: Z, h: LEFT SHIFT}
   - X
   - C
@@ -33,14 +33,14 @@ layers:
   - M
   - (
   - )
-  - ESCAPE
+  - '&mkp MB1'
   - LEFT COMMAND
   - DELETE
   - F16
-  - BACKSPACE
-  - {t: ENTER, h: '2'}
-  - {t: '&to_layer_0 LANG2', h: '3'}
-  - {t: '&to_layer_0 LANG1', h: '3'}
+  - LANGUAGE 2
+  - {t: LANGUAGE 1, h: '2'}
+  - {t: '&to_layer_0 ENTER', h: '3'}
+  - {t: '&to_layer_0 BACKSPACE', h: '3'}
   - {t: SPACE, h: '1'}
   - LEFT ALT
   '1':
