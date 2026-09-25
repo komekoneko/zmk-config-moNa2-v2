@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: mona2}
 layers:
   default:
-  - Q
+  - TAB
   - W
   - E
   - R
@@ -22,7 +22,7 @@ layers:
   - K
   - L
   - {t: '-', h: RIGHT SHIFT}
-  - {t: Z, h: LEFT SHIFT}
+  - Z
   - X
   - C
   - V
@@ -34,9 +34,9 @@ layers:
   - '&mkp MB1'
   - '&mkp MB2'
   - ;
+  - {t: Q, h: LEFT SHIFT}
   - LEFT COMMAND
   - DELETE
-  - TAB
   - LANGUAGE 2
   - {t: LANGUAGE 1, h: '2'}
   - {t: '&to_layer_0 ENTER', h: '3'}
